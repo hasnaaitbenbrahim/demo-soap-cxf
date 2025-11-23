@@ -1,0 +1,6 @@
+com/example/demo/DemoApplication.class
+com/example/demo/config/CxfConfig.class
+com/example/demo/repositories/CompteRepository.class
+com/example/demo/entities/Compte.class
+com/example/demo/entities/TypeCompte.class
+com/example/demo/ws/CompteSoapService.class

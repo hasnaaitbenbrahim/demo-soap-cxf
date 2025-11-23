@@ -1,0 +1,6 @@
+/Users/hasna/CascadeProjects/demo-soap-cxf/src/main/java/com/example/demo/entities/TypeCompte.java
+/Users/hasna/CascadeProjects/demo-soap-cxf/src/main/java/com/example/demo/ws/CompteSoapService.java
+/Users/hasna/CascadeProjects/demo-soap-cxf/src/main/java/com/example/demo/repositories/CompteRepository.java
+/Users/hasna/CascadeProjects/demo-soap-cxf/src/main/java/com/example/demo/DemoApplication.java
+/Users/hasna/CascadeProjects/demo-soap-cxf/src/main/java/com/example/demo/entities/Compte.java
+/Users/hasna/CascadeProjects/demo-soap-cxf/src/main/java/com/example/demo/config/CxfConfig.java
